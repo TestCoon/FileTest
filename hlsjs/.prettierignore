@@ -1,0 +1,9 @@
+/api-docs
+/api-extractor/report
+/api-extractor/report-*
+/coverage
+/demo/libs
+/dist
+/lib
+/src/demux/webworkify-webpack.js
+package-lock.json
