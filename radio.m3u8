@@ -3,4 +3,4 @@
 #EXT-X-ALLOW-CACHE:YES
 ## Created with Z/IPStream R/2 v1.03.23
 #EXT-X-STREAM-INF:BANDWIDTH=137315,CODECS="mp4a.40.2"
-playlist.m3u8
+hbfs/harder-better-faster-stronger.m3u8
